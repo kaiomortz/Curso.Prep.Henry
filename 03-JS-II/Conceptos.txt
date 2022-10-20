@@ -1,0 +1,11 @@
+for = es un condicional que se ejecuta dentro de un parametro dado, tiene un numero finito
+de repeticiones y un contador que sirve para ejecutar tantas veces el codigo
+
+&&= conector logico "y" que arroja un resultado booleano, si las proposiciones (afirmaciones)
+que estan afectadas al conector son V el resultado es V, si una de ellas es falsa el resultado
+es falso
+
+|| = conector logico "o" que arroja verdadero si una de las proposiciones son V
+
+! = conector que se coloca delante de un valor booleano, quiere decir que no, e invierte el valor y da el resultado
+booleano contrario
