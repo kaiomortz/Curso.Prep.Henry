@@ -1,0 +1,5 @@
+Variable= Ocupa un espacio en la memoria donde se almacena la misma para luego ser utilizada, contiene un identificador y un valor que puede ser modificado o no modificado, depende del tipo de variable
+Strings= Ocupa un espacio en la memoria donde se almacena para ser utilizado luego, contiene un identificador y un valor formado por una cadena de caracteres
+Funciones(Argumentos, return)= Realizan una accion que es dinamica para no repetir codigo, contiene o no parametros
+Declaraciones if= Son instrucciones que le damos al interprete del lenguaje para realizar una accion, en el caso del if declaramos si la condicion es verdad o no, se ejecuta lo que este dentro del condicional
+Valores booleanos (true, false)= Estos sirven para evaluar una condicion y devuelven si este es verdado o falso.
