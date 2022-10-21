@@ -1,0 +1,6 @@
+Arrays = Son conjuntos de listas ordenadas, esto quiere decir que las listas estan ordenadas desde 0 hasta cierto numero,
+los elementos en si pueden estar o no ordenados. Agrupa todo tipo de datos como numeros, funciones, Arrays, Strings, 
+valores booleanos entre otros
+
+Estas al agrupar varios tipos de datos, pueden ser usadas para modificar lo que contienen mas sencillamente entre sus
+funciones
