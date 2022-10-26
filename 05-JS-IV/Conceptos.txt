@@ -1,0 +1,19 @@
+Objetos = Los objetos representan algun concepto o entidad, contienen datos de una cosa en especifica cada objeto
+
+Propiedades = Son las propiedades que derivan del objeto, este nos dice las caracteristicas que posee el objeto
+
+Metodos = Los metodos son llamadas a aquellas funciones que se encuentran englobadas en un objeto, podemos definarlas
+nosotros o utilizar aquellas que existen dentro del lenguaje de programacion 
+
+Bucle for in = este tipo de bucle se utiliza para recorrer las claves una por una del objeto que se hace referencia.
+Se utiliza este bucle y no el for, porque los objetos a diferencia de los arrays no poseen un indice numerico para
+recorrer lo contenido en cada elemento del array.
+
+Notacion de puntos vs notacion de corchetes = conmunmente utilizamos dot notation al ser mas rapido de escribir,
+pero hay ciertos casos que conviene usar bracket notation, por ejemplo hay casos en que la propiedad que intentamos acceder
+tiene caracteres especiales, lo que hace que no podamos usar dot notation porque la sintaxis quedaria mal
+ej: persona.saludo    mal escrito
+    persona["saludo"] bien escrito
+Ademas con el bracket notation podemos usar variables si no conocemos el nombre de la propiedad, con dot notation
+el interprete busca una propiedad con el nombre que le hayamos asignado, en cambio con el bracket notation el interprete
+evalua que se encuentra dentro de los corchetes.
